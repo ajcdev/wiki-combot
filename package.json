@@ -1,0 +1,12 @@
+{
+    "name": "stats-bot",
+    "version": "1.0.0",
+    "description": "CoM Bot",
+    "main": "bot.js",
+    "author": "yoshiii",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
