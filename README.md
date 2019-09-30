@@ -7,3 +7,7 @@ Once you downloaded all the files, head to the main directory and install the mi
 This should install all the missing packages, to start the bot, use: node bot.js
 
 Perhaps you want to change the token in the auth.json file.
+
+(Edit by Chiri:
+
+Hello, I'm just going to edit this to make it look more stylish, alright? All credits go to yoshii for making the bot)
